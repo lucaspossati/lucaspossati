@@ -1,8 +1,8 @@
 ### Hello 👋
 ## I'm Lucas Possati
-- I live in :brazil:, northeast :sunglasses::sunrise:
-- I have been working on Certus Software as backend developer :computer:
-- I have been learnig more about Ruby on Rails :sparkling_heart:
+- I live in :brazil:, Ribeirão Preto :sunglasses::sunrise:
+- I have been working on Cyclo as Full-Stack developer :computer:
+- I have been learnig more about Flutter, every day :sparkling_heart:
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/lucas-possati-3561bb170/" target="_blank">
