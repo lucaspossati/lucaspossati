@@ -25,4 +25,6 @@
 
 ![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=diegoshakan&show_icons=true&count_private=true&theme=radical)
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspossati&layout=compact&langs_count=16&theme=dracula"/>
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
