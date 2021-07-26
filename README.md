@@ -23,7 +23,7 @@
 
 <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/php_icon_130857.png" alt="php" width="40" height="40" style="max-width:100%;"></img>
 
-![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=diegoshakan&show_icons=true&count_private=true&theme=radical)
+![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lucaspossati&show_icons=true&count_private=true&theme=radical)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspossati&layout=compact&langs_count=16&theme=dracula"/>
 
