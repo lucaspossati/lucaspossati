@@ -1,6 +1,6 @@
 ### Hello 👋
 ## I'm Lucas Possati
-- I live in :brazil:, Ribeirão Preto :sunglasses::sunrise:
+- I live in Brazil, Ribeirão Preto :sunglasses::sunrise:
 - I have been working on Cyclo as Full-Stack developer :computer:
 - I have been learnig more about Flutter, every day :sparkling_heart:
 
