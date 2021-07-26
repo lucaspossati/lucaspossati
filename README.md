@@ -24,3 +24,5 @@
 <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/php_icon_130857.png" alt="php" width="40" height="40" style="max-width:100%;"></img>
 
 ![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=diegoshakan&show_icons=true&count_private=true&theme=radical)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
